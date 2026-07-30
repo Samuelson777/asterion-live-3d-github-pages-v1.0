@@ -45,7 +45,7 @@ The application is static and needs no server-side database. Three.js is pinned 
 
 This site presents conceptual engineering geometry and reduced-order screening. It does not claim a certified spacecraft, production aircraft, solved proprietary ANSYS database or fully parametric native Siemens NX release.
 
-
+---
 
 # ASTERION FCTA-1
 
