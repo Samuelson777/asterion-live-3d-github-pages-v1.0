@@ -1,0 +1,15 @@
+{
+  "name": "ASTERION FCTA-1 Live 3D Lab",
+  "short_name": "ASTERION 3D",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050811",
+  "theme_color": "#07101c",
+  "icons": [
+    {
+      "src": "assets/asterion-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
